@@ -1,0 +1,19 @@
+.bg-orange{
+    background-color: #f77d0b;
+}
+.bg-black{
+    background-color: #000000;
+}
+.bg-black:hover {
+    background-color: #f77d0b;
+}
+.bg-orange:hover {
+    background-color: #000000 !important;
+}
+.border-white{
+    border-color: white;
+}
+.border-orange{
+    border-color: #f77d0b;
+}
+

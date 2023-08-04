@@ -1,0 +1,50 @@
+.top-mg-20{
+    margin-top: 20px;
+}
+.btn-group {
+    box-sizing: border-box;
+    width: 50%;
+    position: absolute;
+    left: 0;
+    bottom: 40px;
+    text-align: middle;
+}
+.btn-group button {
+    margin: 0 5px;
+    width: 30px;
+    height: 30px;
+    border: none;
+    background: #f1f1f1;
+}
+
+.bottom-mg-25{
+    margin-bottom: 25px;
+}
+
+.editlabel{
+    font-size: 14px;
+}
+.commentButton{
+    background-color: #33b5e5;
+    margin-top: 10px;
+    text-align: center;
+    color: #fff;
+}
+.commentButtonRed{
+    background-color: #cb144e;
+    margin-top: 10px;
+    text-align: center;
+    color: #fff;
+}
+.commentDiv{
+    text-align: center;
+    justify-content: center;
+    margin-top: 5px;
+}
+.commentUser{
+    font-weight: bold;
+}
+
+.nomargin{
+    margin-bottom: 0px !important;
+}

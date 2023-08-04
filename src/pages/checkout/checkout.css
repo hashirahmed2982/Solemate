@@ -1,0 +1,13 @@
+.orderButton{
+    margin-top:10px;
+    width: 100%;
+    font-size: 25px;
+    background-color:#f77d0b;
+    border-color: #f77d0b;
+
+};
+
+.orderButton:hover{
+    background-color: #33b5e5;
+    border-color: #33b5e5 ;
+};
